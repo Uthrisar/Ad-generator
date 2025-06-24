@@ -47,7 +47,7 @@ npm install
 ### Start Backend Server
 ```bash
 cd backend
-npm start
+node server.js
 # or for development with hot reload
 npm run dev
 ```
